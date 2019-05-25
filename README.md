@@ -1,4 +1,12 @@
-## Welcome to GitHub Pages
+## Witaj na stronie z projektami
+
+Sprawdź mój kod
+
+```javascript
+
+const something = i;
+
+
 
 You can use the [editor on GitHub](https://github.com/bartfx/projects/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
